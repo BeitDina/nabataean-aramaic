@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0rc1 (09960d6f05, 2020-04-09)"
+   sodipodi:docname="shin_Nabataean-Aramic.svg"
+   id="svg4"
+   viewBox="-10 0 1399 2048"
+   version="1.1">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     inkscape:current-layer="svg4"
+     inkscape:window-maximized="0"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:cy="1123.2905"
+     inkscape:cx="949.77855"
+     inkscape:zoom="0.2734375"
+     showgrid="false"
+     id="namedview6"
+     inkscape:window-height="480"
+     inkscape:window-width="898"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <path
+     sodipodi:nodetypes="csccccsssscccccccsccscc"
+     inkscape:connector-curvature="0"
+     id="path2"
+     d="m 684.032,1640.45 c -118.784,0 -218.453,-26.9658 -299.008,-80.8965 -80.555,-53.9307 -141.312,-132.096 -182.272,-234.496 -40.96,-102.399 -60.8887,-225.964 -61.4404,-370.688 l -0.51953,-136.368 h 94.208 l 0.51953,140.464 c 0.47461,128.34 17.0664,237.909 51.2002,328.704 34.1338,90.795 84.3096,160.086 150.528,207.872 66.2184,47.786 147.798,71.6797 244.736,71.6797 h 28.6719 c 246.76958,-14.2204 531.7577,-305.8454 605.2578,-365.1772 l 60.8001,51.8857 c -88.1042,60.6786 -407.79084,384.8116 -664.00994,387.0201 h -28.6719 z M 308.07771,1455.5429 c 124.03531,-73.7662 252.99665,-162.0248 379.90652,-259.2317 112.83249,-86.4243 224.04338,-179.9219 328.72907,-276.59651 L 996.56243,846.57183 C 881.27725,948.8097 767.05986,1046.2531 644.6168,1141.0134 c -106.62704,82.52 -219.49197,163.0052 -344.73209,242.8499 z"
+     fill="currentColor" />
+</svg>
